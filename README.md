@@ -1,4 +1,4 @@
-# Express WebSocket Server
+# ChatApp
 
 This project is a basic Express server with a very heavy backend with WebSocket support, user authentication, and a few essential features. It includes JWT authentication, user management, and WebSocket functionality for real-time communication.
 ***Features***:
