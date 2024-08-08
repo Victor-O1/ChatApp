@@ -1,0 +1,49 @@
+20240727	17:47:26	aa91d696-5143-436b-8038-e2287170913c	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	GET	/	undefined
+20240727	22:52:48	d22d0c05-9c13-448d-a7a9-9bfa03eabbd4	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	GET	/api/auth/providers	undefined
+20240727	22:52:48	066a9b6e-4ca5-4e6e-b159-05c3d287dbe2	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	POST	/api/auth/_log	http://localhost:3000
+20240727	22:52:48	43f6ed0e-55b3-4680-9e97-90056f3fc684	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	GET	/api/auth/error	undefined
+20240728	19:09:29	095cf272-413e-480f-a3a8-80a073f89cf4	Error	Cannot set headers after they are sent to the client	GET	/auth/login	undefined
+20240728	19:11:44	f603d06d-2f91-48a8-9326-02724a30e194	Error	Cannot set headers after they are sent to the client	GET	/auth/	undefined
+20240728	19:12:47	c9499227-7359-4073-bbf9-d7cd16be2570	Error	Cannot set headers after they are sent to the client	GET	/t	undefined
+20240728	19:58:52	2e484589-4985-4262-ba43-3cde7821b23d	ReferenceError	username is not defined	POST	/auth	undefined
+20240728	20:00:01	e3eaf351-2ca9-4d4f-97be-e54b51e6f1a5	ReferenceError	username is not defined	POST	/auth	undefined
+20240729	09:25:22	5e208c11-4823-43c9-90f1-3ee98cdbbe73	ReferenceError	username is not defined	POST	/auth	undefined
+20240729	09:25:41	6ff4fbb8-6fe7-4e96-9ada-526243493a3d	ReferenceError	username is not defined	POST	/auth	undefined
+20240729	09:27:43	e484fda6-9ba2-4b11-b7f9-476e5a469c2b	ReferenceError	username is not defined	POST	/auth	undefined
+20240729	09:29:20	43ac2dc1-b067-46e1-ac1e-fa291162cbe4	ReferenceError	username is not defined	POST	/auth	undefined
+20240729	09:31:47	b1959547-e0a7-4406-8348-8802bb74f388	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	GET	/	undefined
+20240729	09:31:47	c1502522-00e4-4df0-8c42-06387da07f1a	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	GET	/favicon.ico	undefined
+20240729	09:34:08	95218d73-dfc5-4d47-ac63-db9de0a883ea	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	POST	/auth/refresh	undefined
+20240729	09:34:45	94385b4a-37ea-4bbd-ac9b-0d55a95b7dd4	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	POST	/auth/refresh	undefined
+20240729	09:35:39	391b9abb-b7ef-4b78-9829-bcc2518fa52a	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	POST	/auth/refresh	undefined
+20240729	09:35:40	bd5a39f1-05fa-41af-b5fe-25009d645501	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	POST	/auth/refresh	undefined
+20240729	09:37:41	c4fe69d1-111e-49fa-900f-dcbe526fdd62	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	POST	/auth/refresh	undefined
+20240729	09:39:45	c885e51f-66cd-47af-a835-c516130f270b	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	POST	/auth/refresh	undefined
+20240729	09:40:24	e37ae475-6293-4f1e-afc2-10fd442420ad	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	GET	/auth/logout	undefined
+20240729	10:43:15	445af204-8212-4473-b525-c8c01aa41e8d	Error	Not allowed by CORS	POST	/users	http://localhost:3001
+20240729	10:43:42	d4538db5-e83c-4a4b-8718-2117080650a1	Error	Not allowed by CORS	POST	/users	http://localhost:3001
+20240729	10:43:51	b7e6204a-8104-42f6-a166-b8649dd83019	Error	Not allowed by CORS	POST	/users	http://localhost:3001
+20240729	10:45:45	343f8207-ce7d-4d80-9823-9c06a71246eb	Error	Not allowed by CORS	POST	/users	http://localhost:3001
+20240729	10:45:45	4e8195fa-353e-4b4c-b3f2-ea31127d887f	Error	Not allowed by CORS	POST	/users	http://localhost:3001
+20240729	10:45:45	3f0d0ec0-45c6-4a1e-a1b7-31211ff8333d	Error	Not allowed by CORS	POST	/users	http://localhost:3001
+20240729	10:48:49	2a495d83-217a-4015-9226-821bee2250db	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	GET	/	undefined
+20240729	11:27:17	f6b5f395-96c3-42fd-84cf-4a6e0d37775d	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	GET	/favicon.ico	undefined
+20240729	13:11:47	338f12c1-b21a-4114-b7f2-cd1983b35e7b	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	GET	/favicon.ico	undefined
+20240729	13:11:49	3dd474c2-8ed0-4cc1-87e3-8eacdc4ae8fe	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	GET	/favicon.ico	undefined
+20240729	19:22:49	b879c9cf-f498-4116-ab01-17d38c596e00	Too many Requests Too many login attempts from this IP, please try again after a 60 second pause	POST	/auth	http://localhost:3001
+20240729	19:22:50	07659a20-4ce7-40f9-947e-f058144bf55b	Too many Requests Too many login attempts from this IP, please try again after a 60 second pause	POST	/auth	http://localhost:3001
+20240729	19:22:50	dd43e684-6776-437e-9218-9463157229e7	Too many Requests Too many login attempts from this IP, please try again after a 60 second pause	POST	/auth	http://localhost:3001
+20240729	19:22:50	d326c53f-c575-4df1-b2f3-71d99d050c21	Too many Requests Too many login attempts from this IP, please try again after a 60 second pause	POST	/auth	http://localhost:3001
+20240729	19:22:50	d0bf1f6d-c4b3-43a4-afe5-ea658205a0c6	Too many Requests Too many login attempts from this IP, please try again after a 60 second pause	POST	/auth	http://localhost:3001
+20240729	19:30:24	55da6f74-74c5-42fe-984a-34d54502dc7e	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	GET	/favicon.ico	undefined
+20240730	09:40:02	4c10f01f-438a-443f-ba6d-7de1ef3b235c	Error	Not allowed by CORS	OPTIONS	/auth	http://localhost:3002
+20240730	09:40:15	518612e2-6c20-431d-b741-2eb0bdcd5e06	Error	Not allowed by CORS	OPTIONS	/auth	http://localhost:3002
+20240730	09:40:16	fa84aec6-b3ff-4da9-b3d8-381dc79b30b7	Error	Not allowed by CORS	OPTIONS	/auth	http://localhost:3002
+20240730	09:40:16	9b4d4b33-f1be-497a-8d93-72e54de4ee38	Error	Not allowed by CORS	OPTIONS	/auth	http://localhost:3002
+20240730	09:40:16	f56543be-e4e1-40cb-a881-cbe058535490	Error	Not allowed by CORS	OPTIONS	/auth	http://localhost:3002
+20240730	09:40:16	400a7304-f1d0-402b-9395-bd59103e9ea9	Error	Not allowed by CORS	OPTIONS	/auth	http://localhost:3002
+20240730	09:40:16	cd73168c-f9b7-43ae-913d-1c8164de967d	Error	Not allowed by CORS	OPTIONS	/auth	http://localhost:3002
+20240730	09:40:32	63612f37-a521-43eb-9360-39ba7b5ed893	Error	Not allowed by CORS	OPTIONS	/auth	http://localhost:3002
+20240730	09:41:05	6cf7320c-c8e1-47e1-8250-eb97ada0f71e	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	GET	/favicon.ico	undefined
+20240730	16:45:50	f843e58e-710d-48a7-9924-9b2cd0ed562f	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	GET	/	undefined
+20240730	16:45:50	37248043-a7c1-47bc-bdfd-da109724efea	Error	ENOENT: no such file or directory, stat 'C:\Users\priye\Desktop\pheonix-go-final\SERVER\views\404.html'	GET	/favicon.ico	undefined
